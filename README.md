@@ -9,4 +9,3 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for Intership.
 - 📫 How to reach me: https://www.linkedin.com/in/khushboo-chaurasiya-7a13ab237/
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
