@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Khushboo
+### Hi there 👋 I'm Khushboo A passionate frontend developer
+
 
 <!--
 **Khushboo-25/khushboo-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for Intership.
 - 📫 How to reach me: https://www.linkedin.com/in/khushboo-chaurasiya-7a13ab237/
-- <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo-25&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo-25" /> </p>
 
