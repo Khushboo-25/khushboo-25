@@ -9,7 +9,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning JavaScipt and DSA.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for Intership.
-- 📫 How to reach me: https://www.linkedin.com/in/khushboo-chaurasiya-7a13ab237/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo-25&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo-25" /> </p>
 
