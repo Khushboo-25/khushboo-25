@@ -13,7 +13,7 @@
   
   - khushboo250104@gmail.com
   - 💼 Portfolio: https://khushboo-25.github.io/Portfolio_new/khushboo
-  - 🔗 LinkedIn: https://linkedin.com/in/khushboo-chaurasiya-7a13ab237
+  - 🔗 LinkedIn: https://www.linkedin.com/in/khushboo27c/
   - 📧 Email: khushboo250104@gmail.com
   
 <h3 align="left">Languages and Tools:</h3>
